@@ -1,2 +1,2 @@
 # assignments
-contaons AI-LLM project assignments 2026
+contains AI-LLM project assignments 2026
